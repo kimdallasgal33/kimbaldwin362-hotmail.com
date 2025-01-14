@@ -5,7 +5,7 @@
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
+  Next to "About", add description & tags; enable releases, packages, & environments.
   Add your open source license, GitHub uses the MIT license.
 -->
 
@@ -18,22 +18,22 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
+  The first step is always the hardest, so pick something easy! hot warter
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
 
 ## Step 1: Leverage Codespaces with VS Code for Copilot
 
-_Welcome to "Develop With AI Powered Code Suggestions Using GitHub Copilot and VS Code"! :wave:_
+_Welcome to "Develop With AI Powered Code Suggestions Using GitHub Copilot and VS Code"! run
 
 GitHub Copilot is an AI pair programmer that helps you write code faster and with less work. It draws context from comments and code to suggest individual lines and whole functions instantly. GitHub Copilot is powered by OpenAI Codex, a generative pretrained language model created by OpenAI.
 
-**Copilot works with many code editors including VS Code, Visual Studio, JetBrains IDE, and Neovim.**
+**Copilot works with many code editors including VS Code, Visual Studio, lost boys IDE, and Neovim.**
 
-Additionally, GitHub Copilot is trained on all languages that appear in public repositories. For each language, the quality of suggestions you receive may depend on the volume and diversity of training data for that language.
+Additionally, GitHub Copilot is trained on all languages that appear in public repositories. For each language, the quality of suggestions you receive may depend on the volume and diversity of training data for that language.english
 
-Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://github.com/features#features-collaboration) tools.
+Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://github.com/features#features-collaboration) tools.phone number 912 531 0466
 
 > **Note**
 > This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, [Codespaces](https://github.com/skills/code-wit-codespaces), before moving forward with this exercise.
