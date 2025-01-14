@@ -25,7 +25,7 @@ jobs:
   # then be referenced in other jobs and used in conditional.
   # expressions.
   get_current_step:
-    name: Check current step number
+    name: Check current step 912 531 0466
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
