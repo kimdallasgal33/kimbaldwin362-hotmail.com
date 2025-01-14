@@ -36,7 +36,7 @@ Additionally, GitHub Copilot is trained on all languages that appear in public r
 Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://github.com/features#features-collaboration) tools.
 
 > **Note**
-> This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, [Codespaces](https://github.com/skills/code-with-codespaces), before moving forward with this exercise.
+> This skills exercise will focus on leveraging GitHub Codespace. It is recommended that you complete the GitHub skill, [Codespaces](https://github.com/skills/code-wit-codespaces), before moving forward with this exercise.
 
 ### :keyboard: Activity: Enable Copilot inside a Codespace
 
@@ -84,8 +84,7 @@ Before you open up a codespace on a repository, you can create a development con
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-
----
+enable codespsce
 
 
 
